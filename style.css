@@ -1,0 +1,136 @@
+a{
+    text-align: center;
+    display: inline-block;
+}
+p{
+    font-family:'Gill Sans MT', Calibri;
+}
+#div1> p{
+    color: white;
+    display: inline-block;
+    
+    
+}
+#projectsIntro{
+    color: blue;
+}   
+.name{
+    color: rgb(181, 154, 0);
+    text-align:left;
+    font-size:50px;
+    display:inline-block;
+    margin: 0px;
+    font-family:'Gill Sans MT', Calibri;
+    line-height: 40px;
+    font-weight: 20;
+    
+
+}
+.major{
+    color: black;
+    text-align:right;
+    display: flow-root;
+}
+#div1 {
+    /* text-align:right; */
+    display:inline-block;
+    text-align: right;
+    
+
+}
+#div1a{
+    display: inline-block;
+    float: right;
+}
+#div1a > p{
+    color: white;
+}
+
+body{
+    background-color: rgb(38, 38, 38);
+    /* text-align: left; */
+    
+}
+#div3 > p{
+    color:#C0BDBE;
+    font-family:'Gill Sans MT', Calibri;
+}
+#title{
+    line-height: 15px;
+    color:#C0BDBE;
+    font-family:'Gill Sans MT (Headings)', Calibri;
+    font-weight: 20;
+    font-size: 24px;
+}
+#type{
+    line-height:0px;
+    color: white;
+    font-family:'Gill Sans MT', Calibri;
+}
+#job{
+    line-height: 15px;
+    font-weight: bold;
+    color:white;
+    font-family:'Gill Sans MT', Calibri;
+}
+#date{
+    font-family:'Gill Sans MT (Headings)', Calibri;
+    line-height: 10px;
+    color: grey;
+}
+#description{
+    font-family:'Gill Sans MT', Calibri;
+    color:#C0BDBE;
+}
+.container{
+    display: inline-block;
+    
+    
+}
+.div5{
+    display: inline-block;
+    width: 50%;
+}
+.div5 > p{
+    font-family:'Gill Sans MT', Calibri;
+}
+.div5 > h4{
+    font-family:'Gill Sans MT', Calibri;
+}
+.div5 > #projectTitle{
+    color: white;
+}
+.div5 > #projectName{
+    color:white;
+}
+.div5 > #projectDescription{
+    color: #C0BDBE;
+}
+.div6 > p{
+    font-family:'Gill Sans MT', Calibri;
+}
+.div6 > h4{
+    font-family:'Gill Sans MT', Calibri;
+}
+.div6 > #projectTitle{
+    color: white;
+}
+.div6 > #projectName{
+    color:white;
+}
+.div6 > #projectDescription{
+    color: #C0BDBE;
+}
+.div6{
+    width: 50%;
+    float: right;
+}
+#para {
+    color:#C0BDBE
+}
+#listItem{
+    color:#C0BDBE;
+    font-family:'Gill Sans MT', Calibri;
+}
+
+
